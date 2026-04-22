@@ -1,5 +1,12 @@
 # PZF20 – Mechanical Enclosure
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> **© 2026 Ondulab** — This project is licensed under [CC BY-NC-SA 4.0](LICENSE).
+> Free to share and adapt for **non-commercial use only**, with attribution and under the same licence.
+
+---
+
 This repository contains the mechanical design files for the **PZF20 piezoelectric balanced preamplifier** enclosure, designed with [FreeCAD](https://www.freecad.org/).
 
 The enclosure is intended to house the PZF20 electronics board — a small board using a **LSK389B dual N-channel JFET** and a **LSK170B N-channel JFET** for preamplification and impedance matching of two piezoelectric crystals wired in balance. These JFETs are ultra-low noise components.
